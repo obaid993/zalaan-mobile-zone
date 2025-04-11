@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "727452732248",
+    "firebase_url": "https://thedemo-7d9c6-default-rtdb.firebaseio.com",
+    "project_id": "thedemo-7d9c6",
+    "storage_bucket": "thedemo-7d9c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727452732248:android:b7a502893ab84b7994332d",
+        "android_client_info": {
+          "package_name": "com.zalaan.zm_zone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJf5lAJgI54dn6rCg2uewBoySB6mW0qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
